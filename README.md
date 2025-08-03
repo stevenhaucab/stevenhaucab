@@ -1,47 +1,44 @@
+# Hi, I'm Steven Hau! 👋  
+🧠 Full Stack Developer | Laravel, Vue.js, Docker | SQL, Azure, RESTful APIs
 
-# Hi, I'm Steven Hau! 👋
-🖥️ Backend Developer | PHP, Azure, RESTful APIs | SQL Databases
+👋 Welcome! I'm a passionate full stack developer with 4+ years of experience, currently focused on building scalable web applications using **Laravel** on the backend and **Vue.js** on the frontend.
 
-👋 Hi there! I am a passionate backend developer with 4 years of experience in PHP. I have extensive experience working with Azure cloud servers and have a solid track record in creating RESTful APIs.
+☁️ I work daily with **Microsoft Azure**, containerized environments using **Docker**, and modern development stacks for marketing-focused platforms and administrative systems.
 
-🗄️ My expertise includes managing and optimizing SQL databases, with a specific focus on MySQL and SQL Server. I enjoy solving complex problems and building efficient, scalable solutions.
+🗃️ I specialize in managing **SQL Server** and **MySQL** databases, designing efficient queries, and building robust RESTful APIs for high-traffic systems.
 
-🚀 Currently, I am undergoing intensive training in Java to expand my skill set and pivot my career towards backend development with Java. Although I don't have professional experience in Java yet, I am committed to learning and mastering this technology.
+🚧 I’m currently working on a system for **real estate lot management** using Laravel 11, React, and WebSockets.
+
+🌍 As part of my long-term goal, I’m improving my **technical English (B2-C1)** and preparing to work remotely with international teams.
+
 ## 🛠 Skills
-### Programming Languages:
-✔ PHP
 
-✔ Java (in progress)
+### Languages & Frameworks  
+✔ PHP  
+✔ Laravel  
+✔ Vue.js  
+✔ JavaScript  
 
-### Web Development:
-✔ RESTful APIs
+### Dev Tools  
+✔ Docker (Laradock)  
+✔ Git / GitHub / Bitbucket  
+✔ Composer & NPM  
 
-✔ Backend Development
+### Databases  
+✔ MySQL  
+✔ SQL Server  
 
-### Cloud Services:
-✔ Azure
+### Cloud & Deployment  
+✔ Microsoft Azure  
+✔ VPS (Linux AlmaLinux)  
 
-### Databases:
-✔ MySQL
+### Web Development  
+✔ RESTful APIs  
+✔ Authentication & RBAC  
+✔ MVC architecture  
 
-✔ SQL Server
-
-### Frameworks and Tools:
-✔ Laravel
-
-✔ Docker
-
-### Version Control:
-✔ Git
-
-✔ GitHub
-
-✔ GitLab
-
-### Other:
-✔ Problem-solving
-
-✔ Scalability and optimization
-
-✔ Continuous learning and improvement
-
+### Other  
+✔ Problem-solving  
+✔ Clean code & scalability  
+✔ Technical writing (EN/ES)  
+✔ Daily GitHub activity & roadmap building  
