@@ -1,4 +1,4 @@
-# Hi, I'm Steven Hau! 👋  
+# Hi, I'm Steven Hau 👋  
 🧠 Full Stack Developer | Laravel, Vue.js, Docker | SQL, Azure, RESTful APIs
 
 👋 Welcome! I'm a passionate full stack developer with 4+ years of experience, currently focused on building scalable web applications using **Laravel** on the backend and **Vue.js** on the frontend.
@@ -42,3 +42,4 @@
 ✔ Clean code & scalability  
 ✔ Technical writing (EN/ES)  
 ✔ Daily GitHub activity & roadmap building  
+
